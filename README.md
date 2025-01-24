@@ -1,7 +1,7 @@
 ## Hi there 👋
 <hr>
 ### Im Yuki
-![profiletest.png](![](https://raw.githubusercontent.com/Yukixnya/Yukixnya/main/profiletest.png))
+![](https://raw.githubusercontent.com/Yukixnya/Yukixnya/main/profiletest.png)
 <!--
 **Yukixnya/Yukixnya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
