@@ -8,7 +8,8 @@
 </div>
 
 <img align="right" height="150" src="https://tenor.com/view/working-xtremeverse-xtreme-chibi-cute-gif-10562462060090421525"  />
-![GIF](https://tenor.com/view/working-xtremeverse-xtreme-chibi-cute-gif-10562462060090421525)
+[View GIF on Tenor](https://tenor.com/view/working-xtremeverse-xtreme-chibi-cute-gif-10562462060090421525)
+
 
 
 ###
