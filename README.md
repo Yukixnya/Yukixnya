@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yukixnya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://tenor.com/view/konata-izumi-lucky-star-rosin-can-correct-my-grammar-again-i-lof-rosin-its-too-actually-gif-2082115149272310930)"  />
+<img align="right" height="150" src="https://tenor.com/view/working-xtremeverse-xtreme-chibi-cute-gif-10562462060090421525"  />
 
 ###
 
