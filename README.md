@@ -1,4 +1,24 @@
-<h2 align="left">Hi 👋 I'm Yukixnya</h2>
+# Hi, I'm Yukixnya! 👋  
+
+I'm a **BTech Computer Science & Engineering (CSE) student at Parul University**, interested in **technology and software development**, with expertise in **C, Python, and Java**. I'm also exploring **Front-End Web Development** to build engaging web experiences.  
+
+## 🛠️ Skills  
+
+### 💻 Technical Skills  
+- **Programming Languages:** C, Python, Java, JavaScript  
+- **Web Technologies:** HTML5, CSS3  
+- **Cybersecurity Awareness & Product Design**  
+
+### 🎸 Soft Skills  
+- Problem-Solving & Creativity  
+- Passion for **Guitar & EDM Making 🎶**  
+- Continuous Learning & Innovation  
+
+## 📫 Let's Connect!  
+- 🔗 **GitHub:** [github.com/Yukixnya](https://github.com/Yukixnya)  
+- 🔗 **HackerRank:** [hackerrank.com/profile/zero006607578](https://www.hackerrank.com/profile/zero006607578)  
+
+🚀 **Open to collaborations and new opportunities!**
 
 ###
 
