@@ -2,23 +2,6 @@
 
 I'm a **BTech Computer Science & Engineering (CSE) student at Parul University**, interested in **technology and software development**, with expertise in **C, Python, and Java**. I'm also exploring **Front-End Web Development** to build engaging web experiences.  
 
-## 🛠️ Skills  
-
-### 💻 Technical Skills  
-- **Programming Languages:** C, Python, Java, JavaScript  
-- **Web Technologies:** HTML5, CSS3  
-- **Cybersecurity Awareness & Product Design**  
-
-### 🎸 Soft Skills  
-- Problem-Solving & Creativity  
-- Passion for **Guitar & EDM Making 🎶**  
-- Continuous Learning & Innovation  
-
-## 📫 Let's Connect!  
-- 🔗 **GitHub:** [github.com/Yukixnya](https://github.com/Yukixnya)  
-- 🔗 **HackerRank:** [hackerrank.com/profile/zero006607578](https://www.hackerrank.com/profile/zero006607578)  
-
-🚀 **Open to collaborations and new opportunities!**
 
 ###
 
@@ -28,7 +11,22 @@ I'm a **BTech Computer Science & Engineering (CSE) student at Parul University**
 </div>
 
 
+## 🛠️ Skills  
+
 <img align="right" height="150" src="computer_cute.gif"  />
+
+### 💻 Technical Skills
+- **Programming Languages:** ![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Web Technologies:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- **Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+- **Backend:** [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+- **Cybersecurity Awareness & Product Design**
+
+### 🎸 Soft Skills  
+- Problem-Solving & Creativity  
+- Passion for **Guitar & EDM Making 🎶**  
+- Continuous Learning & Innovation  
+
 
 ###
 
@@ -70,7 +68,9 @@ I'm a **BTech Computer Science & Engineering (CSE) student at Parul University**
 </div>
 
 
+###
 
+🚀 **Open to collaborations and new opportunities!**
 
 
 ###
