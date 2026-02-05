@@ -1,6 +1,6 @@
 # Hi, I'm Yukixnya! 👋  
 
-I'm a **BTech Computer Science & Engineering (CSE) student at Parul University**, interested in **technology and software development**, with expertise in **C, Python, and Java**. I'm also exploring **Front-End Web Development** to build engaging web experiences.  
+I'm a **BTech Computer Science & Engineering (CSE) student at Parul University**, interested in **technology and software development**, with expertise in **C++, Python, and Java**. I'm also exploring **Front-End Web Development** to build engaging web experiences.  
 
 
 ###
@@ -16,7 +16,7 @@ I'm a **BTech Computer Science & Engineering (CSE) student at Parul University**
 <img align="right" height="150" src="computer_cute.gif"  />
 
 ### 💻 Technical Skills
-- **Programming Languages:** ![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Programming Languages:** ![](https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **Web Technologies:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
 
 - **Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
