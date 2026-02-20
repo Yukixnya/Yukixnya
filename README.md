@@ -1,15 +1,6 @@
 # Hi, I'm Yukixnya! 👋  
 
-I'm a **BTech Computer Science & Engineering (CSE) student at Parul University**, interested in **technology and software development**, with expertise in **C++, Python, and Java**. I'm also exploring **Front-End Web Development** to build engaging web experiences.  
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yukixnya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yukixnya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+I'm a **BTech Computer Science & Engineering (CSE) student at Parul University**, interested in **technology and software development**, with expertise in **C++, Python, and Java**. I'm also exploring **Front-End Web Development** to build engaging web experiences. 
 
 ## 🛠️ Skills  
 
