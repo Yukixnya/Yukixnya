@@ -1,18 +1,24 @@
-<!-- ========================= -->
+<!-- ====================================================== -->
 
-<!--         HERO AREA         -->
+<!--                    DONGHUA HERO                       -->
 
-<!-- ========================= -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Yukixnya&fontAlign=50&fontAlignY=38&desc=Building%20Ideas%20Into%20Systems&descAlign=50&descAlignY=58&animation=fadeIn&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Yukixnya&fontAlign=50&fontAlignY=38&desc=%E6%9E%B6%E6%9E%84%20%C2%B7%20%E4%BB%A3%E7%A0%81%20%C2%B7%20%E6%99%BA%E8%83%BD&descAlign=50&descAlignY=58&fontColor=FFFFFF&animation=fadeIn&section=header" />
 
 <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=AI+Engineering+%E2%80%A2+Intelligent+Systems;Developer+Tools+%E2%80%A2+Software+Development;Idea+%E2%86%92+Architecture+%E2%86%92+Implementation+%E2%86%92+System" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=9FE2BF&center=true&vCenter=true&width=750&lines=AI+Engineering+%E2%80%A2+Intelligent+Systems;Developer+Tools+%E2%80%A2+Software+Development;Idea+%E2%86%92+Architecture+%E2%86%92+Implementation+%E2%86%92+System" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9FE2BF" width="70%" />
+
+<br>
+
+<sub>「 架构 · 代码 · 智能 」</sub>
 
 </div>
 
@@ -28,9 +34,19 @@ I mainly work with **Python, C/C++, Java, and JavaScript**, while exploring **AI
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header" width="100%" />
+<div align="center">
+
+`◈ ────────────────────── ◇ ────────────────────── ◈`
+
+</div>
 
 <br>
+
+<!-- ====================================================== -->
+
+<!--                  TECHNICAL STACK                       -->
+
+<!-- ====================================================== -->
 
 ## 🛠️ Technical Stack
 
@@ -71,20 +87,25 @@ I mainly work with **Python, C/C++, Java, and JavaScript**, while exploring **AI
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header" width="100%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9FE2BF" width="70%" />
+
+</div>
 
 <br>
+
+<!-- ====================================================== -->
+
+<!--                 CULTIVATION PATH                       -->
+
+<!-- ====================================================== -->
 
 ## ⚙️ How I Like to Build
 
 <div align="center">
 
-```text
-┌──────────┐      ┌───────────────┐      ┌────────────────┐      ┌──────────────┐
-│   IDEA   │  →   │ SYSTEM DESIGN │  →   │ DEVELOPMENT    │  →   │ WORKING      │
-│          │      │               │      │ + INTEGRATION  │      │ SYSTEM       │
-└──────────┘      └───────────────┘      └────────────────┘      └──────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=9FE2BF&center=true&vCenter=true&width=850&lines=%E2%80%94+IDEA+%E2%80%94%E2%80%94%E2%80%94%E2%80%BA+ARCHITECTURE+%E2%80%94%E2%80%94%E2%80%94%E2%80%BA+IMPLEMENTATION+%E2%80%94%E2%80%94%E2%80%94%E2%80%BA+SYSTEM+%E2%80%94" />
 
 </div>
 
@@ -96,9 +117,19 @@ I'm especially interested in understanding **how different components work toget
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header" width="100%" />
+<div align="center">
+
+`☁ ───── ◈ ───── ☾ ───── ◈ ───── ☁`
+
+</div>
 
 <br>
+
+<!-- ====================================================== -->
+
+<!--                 BEYOND DEVELOPMENT                     -->
+
+<!-- ====================================================== -->
 
 ## 🌏 Beyond Development
 
@@ -110,6 +141,12 @@ Outside of programming, I'm interested in:
 * Exploring new technologies and experimenting with ideas
 
 <br>
+
+<!-- ====================================================== -->
+
+<!--                  TECH ICON ARRAY                       -->
+
+<!-- ====================================================== -->
 
 <div align="center">
 
@@ -135,29 +172,47 @@ Outside of programming, I'm interested in:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header" width="100%" />
-
-<br>
-
-<!-- ========================= -->
-
-<!--   3D CONTRIBUTION GRAPH   -->
-
-<!-- ========================= -->
-
 <div align="center">
 
-### Contribution Space
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub Contribution Graph" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9FE2BF" width="70%" />
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header" width="100%" />
+<!-- ====================================================== -->
+
+<!--                  3D CONTRIBUTIONS                     -->
+
+<!-- ====================================================== -->
+
+<div align="center">
+
+## Contribution Realm
+
+<img
+src="./profile-3d-contrib/profile-night-rainbow.svg"
+width="95%"
+alt="3D GitHub Contribution Graph"
+/>
+
+</div>
 
 <br>
+
+<div align="center">
+
+`◈ ──────────────── 代码如剑 · 思维如水 ──────────────── ◈`
+
+</div>
+
+<br>
+
+<!-- ====================================================== -->
+
+<!--                       CONNECT                          -->
+
+<!-- ====================================================== -->
 
 ## 🤝 Connect
 
@@ -183,15 +238,19 @@ Outside of programming, I'm interested in:
 
 **Open to collaborations, interesting ideas, and opportunities to build.**
 
+<br>
+
+<sub>「 山高水长 · 路远自知 」</sub>
+
 </div>
 
 <br>
 
-<!-- ========================= -->
+<!-- ====================================================== -->
 
-<!--      SNAKE ANIMATION      -->
+<!--                    SNAKE ANIMATION                     -->
 
-<!-- ========================= -->
+<!-- ====================================================== -->
 
 <div align="center">
 
@@ -201,10 +260,14 @@ Outside of programming, I'm interested in:
 
 <br>
 
-<!-- ========================= -->
+<!-- ====================================================== -->
 
-<!--          FOOTER           -->
+<!--                       FOOTER                           -->
 
-<!-- ========================= -->
+<!-- ====================================================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0f2027,50:203a43,100:2c5364" />
+
+</div>
